@@ -1,0 +1,5 @@
+www.a.com, 0.307551 
+www.e.com, 0.528258 
+www.b.com, 0.280709 
+www.c.com, 0.370707 
+www.d.com, 0.519312 
